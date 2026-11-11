@@ -24,3 +24,4 @@ let $dollar = 1000;
 let my-name = "Lee";  '-'와같은 특수 기호 사용 불가능
 let camelCaseName = "OK"
 */
+
